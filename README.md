@@ -1,5 +1,6 @@
 # This fork is only compatible with Visual Studio 2022
 - This fork specifically was made to provide a version that supports VS 2022. It does not support any of the prior versions and it does not add any new functionality. 
+- You can either build this using VS 2019, VS 2022 or download the VSIX package from the [Releases Page](https://github.com/dragnilar/VS-ColorThemes/releases).
 
 ## Using this Extension
 
