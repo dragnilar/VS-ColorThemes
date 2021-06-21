@@ -1,3 +1,6 @@
+# This fork is only compatible with Visual Studio 2022
+- This fork specifically was made to provide a version that supports VS 2022. It does not support any of the prior versions and it does not add any new functionality. 
+
 ## Using this Extension
 
 1. Download and install the extension
